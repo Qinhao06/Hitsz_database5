@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="DB5" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/DB5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/DB5" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="data/1.blk" />
+		<Unit filename="data/10.blk" />
+		<Unit filename="data/11.blk" />
+		<Unit filename="data/12.blk" />
+		<Unit filename="data/13.blk" />
+		<Unit filename="data/14.blk" />
+		<Unit filename="data/15.blk" />
+		<Unit filename="data/16.blk" />
+		<Unit filename="data/17.blk" />
+		<Unit filename="data/18.blk" />
+		<Unit filename="data/19.blk" />
+		<Unit filename="data/2.blk" />
+		<Unit filename="data/20.blk" />
+		<Unit filename="data/21.blk" />
+		<Unit filename="data/22.blk" />
+		<Unit filename="data/23.blk" />
+		<Unit filename="data/24.blk" />
+		<Unit filename="data/25.blk" />
+		<Unit filename="data/26.blk" />
+		<Unit filename="data/27.blk" />
+		<Unit filename="data/28.blk" />
+		<Unit filename="data/29.blk" />
+		<Unit filename="data/3.blk" />
+		<Unit filename="data/30.blk" />
+		<Unit filename="data/31.blk" />
+		<Unit filename="data/32.blk" />
+		<Unit filename="data/33.blk" />
+		<Unit filename="data/34.blk" />
+		<Unit filename="data/35.blk" />
+		<Unit filename="data/36.blk" />
+		<Unit filename="data/37.blk" />
+		<Unit filename="data/38.blk" />
+		<Unit filename="data/39.blk" />
+		<Unit filename="data/4.blk" />
+		<Unit filename="data/40.blk" />
+		<Unit filename="data/41.blk" />
+		<Unit filename="data/42.blk" />
+		<Unit filename="data/43.blk" />
+		<Unit filename="data/44.blk" />
+		<Unit filename="data/45.blk" />
+		<Unit filename="data/46.blk" />
+		<Unit filename="data/47.blk" />
+		<Unit filename="data/48.blk" />
+		<Unit filename="data/5.blk" />
+		<Unit filename="data/6.blk" />
+		<Unit filename="data/7.blk" />
+		<Unit filename="data/8.blk" />
+		<Unit filename="data/8888.blk" />
+		<Unit filename="data/9.blk" />
+		<Unit filename="extmem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="extmem.cbp" />
+		<Unit filename="extmem.h" />
+		<Unit filename="extmem.layout" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
